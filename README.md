@@ -1,4 +1,4 @@
-# Hodoku2
+# HoDoKu
 An updated version of HoDoKu in a new repo
 
 **Website: [hodoku.dev](https://hodoku.dev/)** — play HoDoKu in your browser at [hodoku.dev/play](https://hodoku.dev/play/), read the [User Manual](https://hodoku.dev/docs.html) and the [Solving Guide](https://hodoku.dev/techniques.html).
