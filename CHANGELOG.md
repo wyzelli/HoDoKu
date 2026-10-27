@@ -12,7 +12,7 @@ Java/Swing.
 
 Available languages: English, German and Spanish.
 
-Downloads and per-release notes: https://github.com/wyzelli/Hodoku2/releases
+Downloads and per-release notes: https://github.com/wyzelli/HoDoKu/releases
 Website: https://hodoku.dev/
 
 
