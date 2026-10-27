@@ -100,7 +100,7 @@ public class MyBrowserLauncher {
 	 * Display the tracker
 	 */
 	public void launchTracker() {
-		String url = "https://github.com/wyzelli/Hodoku2/issues";
+		String url = "https://github.com/wyzelli/HoDoKu/issues";
 		browse(url);
 	}
 
@@ -108,7 +108,7 @@ public class MyBrowserLauncher {
 	 * Display the help forum
 	 */
 	public void launchForum() {
-		String url = "https://github.com/wyzelli/Hodoku2/issues";
+		String url = "https://github.com/wyzelli/HoDoKu/issues";
 		browse(url);
 	}
 

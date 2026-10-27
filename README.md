@@ -1,4 +1,4 @@
-# Hodoku2
+# HoDoKu
 An updated version of HoDoKu in a new repo
 
 **Website: [hodoku.dev](https://hodoku.dev/)** — play HoDoKu in your browser at [hodoku.dev/play](https://hodoku.dev/play/), read the [User Manual](https://hodoku.dev/docs.html) and the [Solving Guide](https://hodoku.dev/techniques.html).
@@ -10,13 +10,13 @@ An updated version of HoDoKu in a new repo
   </picture>
 </a>
 
-**Download:** the easiest way on Windows is the [Microsoft Store](https://apps.microsoft.com/detail/9MW2135XRKH6) (automatic updates, no SmartScreen warning). You can also get the latest Windows installer (`.msi`), Windows zip or `HoDoKu.jar` from [Releases](https://github.com/wyzelli/Hodoku2/releases/latest). See the [Code signing policy](#code-signing-policy).
+**Download:** the easiest way on Windows is the [Microsoft Store](https://apps.microsoft.com/detail/9MW2135XRKH6) (automatic updates, no SmartScreen warning). You can also get the latest Windows installer (`.msi`), Windows zip or `HoDoKu.jar` from [Releases](https://github.com/wyzelli/HoDoKu/releases/latest). See the [Code signing policy](#code-signing-policy).
 
 This takes the original code from https://hodoku.sourceforge.net/en/index.php, and merges it with the updates by Pseudofish from https://github.com/PseudoFish/Hodoku.
 
 Then this whole set has been updated to work with JRE 21.
 
-Prebuilt downloads (Windows installer, Windows zip and `HoDoKu.jar`) are attached to each [GitHub Release](https://github.com/wyzelli/Hodoku2/releases), and copies are kept in the `dist` folder.
+Prebuilt downloads (Windows installer, Windows zip and `HoDoKu.jar`) are attached to each [GitHub Release](https://github.com/wyzelli/HoDoKu/releases), and copies are kept in the `dist` folder.
 
 ## Building
 
